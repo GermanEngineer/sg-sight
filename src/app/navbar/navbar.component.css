@@ -1,0 +1,18 @@
+/*Das Feld legt fest wie das Logo gestaltet wird*/
+.logo{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+/*Das Feld legt fest wie das rechte Logo aussieht "Dash*/
+.logo-left{
+    background-color: #599cb6;
+    padding: 3px 5px 3px 8px;
+    border-radius: 4px;
+}
+/*Das Feld legt fest wie das linke Logo aussieht "board*/
+.logo-right{
+    padding: 3px 5px 3px 3px;
+    border-radius: 4px;
+    margin-left: -3px;
+}
